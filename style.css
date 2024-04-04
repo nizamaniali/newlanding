@@ -30,8 +30,8 @@
 .logo a {
   text-decoration: none;
   font-family: 'Bebas Neue', sans-serif;
-  /* color: rgb(84, 84, 84);
-   */
+  /* color: rgb(84, 84, 84); */
+
   color: white;
   font-size: 2rem;
 }
@@ -129,13 +129,13 @@
   /* box-sizing: border-box; */
   padding-right: 100px;
   padding-left: 50px;
-  background: white;
+  /* background: white; */
 }
 .middle-right-side {
   width: 50%;
   /* padding-left: 150px; */
   padding-right: 50px;
-  background: white;
+  /* background: white; */
 }
 @media screen and (max-width: 600px) {
   .middle-container {
@@ -157,3 +157,9 @@
 /* @media screen and (max-width: 600px) {
   
 } */
+
+/* ABOUT US PAGE -------------------------------------------- */
+
+.about-heading h1 {
+  color: white;
+}
